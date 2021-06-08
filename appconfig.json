@@ -1,5 +1,5 @@
 {
-  "isShowInterstitial": true,
+  "isShowInterstitial": false,
   "isShowSubFirst": false,
   "isPremiumContent": true,
   "isSubscription":true,
