@@ -6,5 +6,6 @@
   "isFreeAds": true,
   "isUsingImageLocal": true,
   "secret": "79a5a5e9b857490a807d34dfffecc029",
-  "videoAdsSecond": 20
+  "videoAdsSecond": 20,
+  "isHidePhone": false
 }
